@@ -1,0 +1,10 @@
+TASKS
+> Create a Github repo add Mujtaba and uzma
+> Inference endpoint
+> Requirement
+> Environment
+> Flow Diagram
+> Readme.md
+
+INSTRUCTIONS
+> Mujtaba consider repos that already build and open-source
